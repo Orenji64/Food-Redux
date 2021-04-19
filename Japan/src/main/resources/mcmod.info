@@ -1,7 +1,7 @@
 [{
   "modid": "sfjapan",
-  "name": "Simply Foods - Japan",
-  "description": "The Japan module of Simply Foods: A simple, vanilla friendly, food mod.",
+  "name": "SimplyFood - Japan",
+  "description": "The Japan module of SimplyFood: A simple, vanilla friendly, food mod.",
   "version": "0.0.1",
   "mcversion": "1.12.2",
   "logoFile": "",

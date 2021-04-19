@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sfcore",
+  "name": "SimplyFood Core",
+  "description": "The core mod for SimplyFood.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/orenjiao64",
+  "updateUrl": "",
+  "authorList": [""],
+  "credits": "OrenjiAo64",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

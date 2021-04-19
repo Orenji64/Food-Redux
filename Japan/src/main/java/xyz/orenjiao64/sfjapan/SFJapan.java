@@ -13,7 +13,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 public class SFJapan
 {
     public static final String MODID = "sfjapan";
-    public static final String NAME = "Simply Foods - Japan";
+    public static final String NAME = "SimplyFood - Japan";
     public static final String VERSION = "0.0.1";
     public static final String MC_VERSION = "[1.12.2]";
 
