@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: examplemod
-Specification-Vendor: examplemodsareus
-Specification-Version: 1
-Implementation-Title: Japan
-Implementation-Version: 0.0.1
-Implementation-Vendor: examplemodsareus
-Implementation-Timestamp: 2021-04-18T21:20:12+0100
-
