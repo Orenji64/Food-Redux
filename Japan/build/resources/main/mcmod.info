@@ -1,0 +1,12 @@
+[{
+  "modid": "sfjapan",
+  "name": "Simply Foods - Japan",
+  "description": "The Japan module of Simply Foods: A simple, vanilla friendly, food mod.",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "logoFile": "",
+  "url": "https://github.com/orenjiao64",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["OrenjiAo64"],
+  "credits": ""
+}]
