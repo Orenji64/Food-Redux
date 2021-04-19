@@ -1,19 +1,19 @@
-package xyz.orenjiao64.sfjapan;
+package xyz.orenjiao64.sfcore;
 
-import xyz.orenjiao64.sfcore.SFCore;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraftforge.event.RegistryEvent.Register;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import xyz.orenjiao64.sfcore.SFCore;
 
-@EventBusSubscriber(modid = SFJapan.MODID)
-public class RegistrationHandler {
+@EventBusSubscriber(modid = SFCore.MODID)
+public class Reg {
 
     @SubscribeEvent
     public static void registerItems(Register<Item> event) {
         final Item[] items = {
-                new Item().setRegistryName(SFJapan.MODID, "test").setUnlocalizedName(SFJapan.MODID + "." + "test").setCreativeTab(SFCore.creativeTab)
+                new Item().setRegistryName(SFCore.MODID, "dough").setUnlocalizedName(SFCore.MODID + "." + "dough").setCreativeTab(CreativeTabs.MISC)
         };
 
         event.getRegistry().registerAll(items);
