@@ -13,7 +13,7 @@ public class Reg {
     @SubscribeEvent
     public static void registerItems(Register<Item> event) {
         final Item[] items = {
-                new Item().setRegistryName(SFCore.MODID, "dough").setUnlocalizedName(SFCore.MODID + "." + "dough").setCreativeTab(CreativeTabs.MISC)
+                new Item().setRegistryName(SFCore.MODID, "dough").setUnlocalizedName(SFCore.MODID + "." + "dough").setCreativeTab(SFCore.creativeTab)
         };
 
         event.getRegistry().registerAll(items);
