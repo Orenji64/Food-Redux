@@ -1,6 +1,7 @@
 package xyz.orenjiao64.sfcore.init;
 
 import xyz.orenjiao64.sfcore.SFCore;
+import xyz.orenjiao64.sfcore.init.SFItemFood;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
 
