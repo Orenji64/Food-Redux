@@ -1,2 +1,5 @@
 itemGroup.sfcore=SimplyFood
-item.sfcore.dough.name=Dough
+
+item.dough.name=Dough
+item.doughball.name=Doughball
+item.flour.name=Flour

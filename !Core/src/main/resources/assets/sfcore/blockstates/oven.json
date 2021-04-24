@@ -1,0 +1,13 @@
+{
+  "variants":
+  {
+    "burning=false,facing=north": { "model": "sfcore:oven" },
+    "burning=false,facing=east": { "model": "sfcore:oven", "y": 90 },
+    "burning=false,facing=south": { "model": "sfcore:oven", "y": 180 },
+    "burning=false,facing=west": { "model": "sfcore:oven", "y": 270 },
+    "burning=true,facing=north": { "model": "sfcore:oven_lit" },
+    "burning=true,facing=east": { "model": "sfcore:oven_lit", "y": 90 },
+    "burning=true,facing=south": { "model": "sfcore:oven_lit", "y": 180 },
+    "burning=true,facing=west": { "model": "sfcore:oven_lit", "y":270  }
+  }
+}

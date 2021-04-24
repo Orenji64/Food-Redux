@@ -1,0 +1,12 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "particle": "sfcore:blocks/oven_side",
+    "up": "sfcore:blocks/oven_top",
+    "down": "sfcore:blocks/oven_bottom",
+    "north": "sfcore:blocks/oven_front_off",
+    "east": "sfcore:blocks/oven_side",
+    "south": "sfcore:blocks/oven_side",
+    "west": "sfcore:blocks/oven_side"
+  }
+}

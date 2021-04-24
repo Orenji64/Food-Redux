@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sfcore:flour"
+        },
+        {
+            "item": "minecraft:milk_bucket"
+        }
+    ],
+    "result":
+    {
+        "item": "sfcore:dough",
+        "count": 4
+    }
+}
