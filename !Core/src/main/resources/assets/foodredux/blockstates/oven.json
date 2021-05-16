@@ -1,0 +1,13 @@
+{
+  "variants":
+  {
+    "burning=false,facing=north": { "model": "foodredux:oven" },
+    "burning=false,facing=east": { "model": "foodredux:oven", "y": 90 },
+    "burning=false,facing=south": { "model": "foodredux:oven", "y": 180 },
+    "burning=false,facing=west": { "model": "foodredux:oven", "y": 270 },
+    "burning=true,facing=north": { "model": "foodredux:oven_lit" },
+    "burning=true,facing=east": { "model": "foodredux:oven_lit", "y": 90 },
+    "burning=true,facing=south": { "model": "foodredux:oven_lit", "y": 180 },
+    "burning=true,facing=west": { "model": "foodredux:oven_lit", "y":270  }
+  }
+}

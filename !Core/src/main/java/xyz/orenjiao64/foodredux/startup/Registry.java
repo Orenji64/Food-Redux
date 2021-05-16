@@ -1,4 +1,4 @@
-package xyz.orenjiao64.simplyfood.startup;
+package xyz.orenjiao64.foodredux.startup;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
@@ -6,10 +6,9 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.ForgeRegistry;
-import xyz.orenjiao64.simplyfood.Reference;
-import xyz.orenjiao64.simplyfood.SimplyFood;
-import xyz.orenjiao64.simplyfood.init.ModItems;
+import xyz.orenjiao64.foodredux.Reference;
+import xyz.orenjiao64.foodredux.init.ModItems;
+import xyz.orenjiao64.foodredux.init.TabOverride;
 
 public class Registry
 {
@@ -23,5 +22,6 @@ public class Registry
         BLOCKS.register(modEventBus);
 
         ModItems.register();
+        TabOverride.register();
     }
 }

@@ -1,7 +1,8 @@
-package xyz.orenjiao64.simplyfood;
+package xyz.orenjiao64.foodredux;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
+import net.minecraft.item.ItemGroup;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -15,17 +16,16 @@ import net.minecraftforge.fml.event.server.FMLServerStartingEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import xyz.orenjiao64.simplyfood.startup.Registry;
+import xyz.orenjiao64.foodredux.startup.Registry;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(Reference.MODID)
-public class SimplyFood
+public class FoodRedux
 {
     // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
 
-    public SimplyFood() {
-
+    public FoodRedux() {
         Registry.Register();
 
         // Register the setup method for modloading
@@ -56,7 +56,7 @@ public class SimplyFood
     private void enqueueIMC(final InterModEnqueueEvent event)
     {
         // some example code to dispatch IMC to another mod
-        InterModComms.sendTo("simplyfood", "helloworld", () -> { LOGGER.info("Hello world from the MDK"); return "Hello world";});
+        InterModComms.sendTo("foodredux", "helloworld", () -> { LOGGER.info("Hello world from the MDK"); return "Hello world";});
     }
 
     private void processIMC(final InterModProcessEvent event)

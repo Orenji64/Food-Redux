@@ -1,0 +1,12 @@
+{
+  "item.minecraft.bread": "Loaf of Bread",
+
+  "item.foodredux.dough_raw": "Dough",
+  "item.foodredux.dough_baked": "Doughball",
+  "item.foodredux.flour": "Flour",
+  "item.foodredux.bread_raw": "Dough (Bread)",
+
+  "itemGroup.food_ingredients": "Food - Ingredients",
+  "itemGroup.food_bakery": "Food - Bakery",
+  "itemGroup.food": "Food - Misc"
+}

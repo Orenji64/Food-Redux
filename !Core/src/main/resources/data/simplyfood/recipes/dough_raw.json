@@ -2,20 +2,20 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "simplyfood:flour"
+            "item": "foodredux:flour"
         },
         {
-            "item": "simplyfood:flour"
+            "item": "foodredux:flour"
         },
         {
-            "item": "simplyfood:flour"
+            "item": "foodredux:flour"
         },
         {
             "item": "minecraft:water_bucket"
         }
     ],
     "result": {
-        "item": "simplyfood:dough_raw",
+        "item": "foodredux:dough_raw",
         "count": 3
     }
 }

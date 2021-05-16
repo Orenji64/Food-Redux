@@ -1,0 +1,12 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "particle": "foodredux:blocks/oven_side",
+    "up": "foodredux:blocks/oven_top",
+    "down": "foodredux:blocks/oven_bottom",
+    "north": "foodredux:blocks/oven_front_on",
+    "east": "foodredux:blocks/oven_side",
+    "south": "foodredux:blocks/oven_side",
+    "west": "foodredux:blocks/oven_side"
+  }
+}

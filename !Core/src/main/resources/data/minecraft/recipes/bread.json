@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "simplyfood:bread_raw"
+    "item": "foodredux:bread_raw"
   },
   "result": "minecraft:bread",
   "experience": 0.1,

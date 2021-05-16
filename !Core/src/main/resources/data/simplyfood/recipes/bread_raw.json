@@ -5,11 +5,11 @@
   ],
   "key": {
     "#": {
-      "item": "simplyfood:dough_raw"
+      "item": "foodredux:dough_raw"
     }
   },
   "result": {
-    "item": "simplyfood:bread_raw",
+    "item": "foodredux:bread_raw",
     "count": 1
   }
 }
