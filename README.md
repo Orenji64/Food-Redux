@@ -1,2 +1,2 @@
 # Food Redux
- The official repo for the SimplyFood mods by OrenjiAo64
+The Food Redux mods by Orenji64
