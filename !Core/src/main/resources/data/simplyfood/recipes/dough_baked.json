@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "simplyfood:dough_raw"
+  },
+  "result": "simplyfood:dough_baked",
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "simplyfood:dough_raw"
+    }
+  },
+  "result": {
+    "item": "simplyfood:bread_raw",
+    "count": 1
+  }
+}
