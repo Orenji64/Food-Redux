@@ -1,1 +1,1 @@
-#Top Food Redux [![](http://cf.way2muchnoise.eu/versions/food-redux.svg)](https://www.curseforge.com/minecraft/mc-mods/food-redux)[![](http://cf.way2muchnoise.eu/full_food-redux_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/food-redux)
+# Food Redux [![](http://cf.way2muchnoise.eu/versions/food-redux.svg)](https://www.curseforge.com/minecraft/mc-mods/food-redux)[![](http://cf.way2muchnoise.eu/full_food-redux_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/food-redux)
