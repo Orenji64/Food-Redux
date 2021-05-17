@@ -1,2 +1,2 @@
 # Food Redux
-The Food Redux mods by Orenji64
+## [![](https://cf.way2muchnoise.eu/title/food-redux.svg)][![](https://cf.way2muchnoise.eu/versions/food-redux.svg)] [![](https://cf.way2muchnoise.eu/full_food-redux_downloads.svg)]
