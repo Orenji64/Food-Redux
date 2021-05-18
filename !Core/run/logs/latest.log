@@ -1,28 +1,28 @@
-[16May2021 11:58:05.913] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.1.0, --version, MOD_DEV, --assetIndex, 1.16, --assetsDir, C:\Users\orenj\.gradle\caches\forge_gradle\assets, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
-[16May2021 11:58:05.918] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_291 by Oracle Corporation
-[16May2021 11:58:08.283] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[16May2021 11:58:08.362] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/orenj/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.2/1cf212283d26f706fd3074318870bebd14d2a9ed/mixin-0.8.2.jar Service=ModLauncher Env=CLIENT
-[16May2021 11:58:09.634] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalArgumentException: Missing scheme
-[16May2021 11:58:09.636] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.nio.file.Paths.get(Paths.java:134)
-[16May2021 11:58:09.638] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.LibraryFinder.findJarPathFor(LibraryFinder.java:58)
-[16May2021 11:58:09.638] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.ClasspathLocator.locateMods(ClasspathLocator.java:81)
-[16May2021 11:58:09.638] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.ClasspathLocator.initArguments(ClasspathLocator.java:69)
-[16May2021 11:58:09.639] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.lambda$new$7(ModDiscoverer.java:92)
-[16May2021 11:58:09.639] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
-[16May2021 11:58:09.639] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.<init>(ModDiscoverer.java:92)
-[16May2021 11:58:09.640] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLLoader.beginModScan(FMLLoader.java:215)
-[16May2021 11:58:09.640] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.runScan(FMLServiceProvider.java:107)
-[16May2021 11:58:09.640] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.runScan(TransformationServiceDecorator.java:114)
-[16May2021 11:58:09.641] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$runScanningTransformationServices$8(TransformationServicesHandler.java:115)
-[16May2021 11:58:09.641] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:267)
-[16May2021 11:58:09.641] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1628)
-[16May2021 11:58:09.643] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
-[16May2021 11:58:09.643] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
-[16May2021 11:58:09.643] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
-[16May2021 11:58:09.644] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[16May2021 11:58:09.644] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:499)
-[16May2021 11:58:09.645] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.runScanningTransformationServices(TransformationServicesHandler.java:116)
-[16May2021 11:58:09.645] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:63)
-[16May2021 11:58:09.647] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
-[16May2021 11:58:09.647] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
-[16May2021 11:58:09.648] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:105)
+[17May2021 20:49:38.171] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--mod, foodredux, --all, --output, C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\src\generated\resources, --existing, C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\src\main\resources, --gameDir, ., --launchTarget, fmluserdevdata, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.1.0]
+[17May2021 20:49:38.182] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_291 by Oracle Corporation
+[17May2021 20:49:40.435] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[17May2021 20:49:40.502] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/orenj/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.2/1cf212283d26f706fd3074318870bebd14d2a9ed/mixin-0.8.2.jar Service=ModLauncher Env=UNKNOWN
+[17May2021 20:49:40.678] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalArgumentException: Missing scheme
+[17May2021 20:49:40.678] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.nio.file.Paths.get(Paths.java:134)
+[17May2021 20:49:40.679] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.LibraryFinder.findJarPathFor(LibraryFinder.java:58)
+[17May2021 20:49:40.679] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.ClasspathLocator.locateMods(ClasspathLocator.java:81)
+[17May2021 20:49:40.679] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.ClasspathLocator.initArguments(ClasspathLocator.java:69)
+[17May2021 20:49:40.679] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.lambda$new$7(ModDiscoverer.java:92)
+[17May2021 20:49:40.680] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
+[17May2021 20:49:40.680] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.<init>(ModDiscoverer.java:92)
+[17May2021 20:49:40.681] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLLoader.beginModScan(FMLLoader.java:215)
+[17May2021 20:49:40.681] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.runScan(FMLServiceProvider.java:107)
+[17May2021 20:49:40.681] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.runScan(TransformationServiceDecorator.java:114)
+[17May2021 20:49:40.681] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$runScanningTransformationServices$8(TransformationServicesHandler.java:115)
+[17May2021 20:49:40.682] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:267)
+[17May2021 20:49:40.682] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1628)
+[17May2021 20:49:40.683] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+[17May2021 20:49:40.683] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+[17May2021 20:49:40.683] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
+[17May2021 20:49:40.683] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[17May2021 20:49:40.684] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:499)
+[17May2021 20:49:40.684] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.runScanningTransformationServices(TransformationServicesHandler.java:116)
+[17May2021 20:49:40.685] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:63)
+[17May2021 20:49:40.685] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
+[17May2021 20:49:40.686] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[17May2021 20:49:40.686] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:105)

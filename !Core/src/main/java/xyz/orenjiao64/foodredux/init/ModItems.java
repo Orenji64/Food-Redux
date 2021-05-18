@@ -2,10 +2,8 @@ package xyz.orenjiao64.foodredux.init;
 
 import net.minecraft.item.Food;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Items;
 import net.minecraftforge.fml.RegistryObject;
-import xyz.orenjiao64.foodredux.startup.Registry;
+import xyz.orenjiao64.foodredux.util.Registry;
 
 public class ModItems
 {
