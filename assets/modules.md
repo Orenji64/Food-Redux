@@ -18,8 +18,19 @@ Planned additions
 
 Ingredients
 - [x] Dough
+- [ ] Batter
 - [ ] Pastry
 - [ ] Icing
+Foods
+- [ ] Pancakes
+- [ ] Cake (Modular)
+- [ ] Apple pie
+- [ ] Skewers (Fish, mushroom)
+- [ ] Sugar cubes
+Crops
+- [ ] Tomatoes
+- [ ] Strawberries
+- [ ] Rice
 
 ### Nether Expansion
 
@@ -37,16 +48,26 @@ Foods
 
 Foods
 - [ ] Chorus pie
+- [ ] Chorus smoothie
+- [ ] Nullified Chorus pie
+- [ ] Nullified Chorus smoothie
+- [ ] Chorus icing
 
 ### Italian
 
 Foods
 - [ ] Pizza
-- [ ] Pasta
+- [ ] Pasta (Modular)
 - [ ] Ice cream
+- [ ] Tiramisu
+- [ ] Risotto
+Crops
+- [ ] Olives
 
 ### Japanese
 
 Foods
 - [ ] Gyoza
 - [ ] Bao bun
+- [ ] Sushi (Modular)
+- [ ] Tofu
