@@ -25,7 +25,7 @@ public class ModItems
     public static final RegistryObject<Item> SUGARCUBE = Registry.ITEMS.register("sugarcube",
             () -> new Item(new Item.Properties().tab(TabOverride.TAB_BAKERY)
                     .food(new Food.Builder().nutrition(0).fast()
-                    .effect(() -> new EffectInstance(Effects.MOVEMENT_SPEED, 200, 5),1F).effect(() -> new EffectInstance(Effects.HARM, 4, 6), 0.8F).build())));
+                    .effect(() -> new EffectInstance(Effects.MOVEMENT_SPEED, 200, 5),1F).effect(() -> new EffectInstance(Effects.HARM, 1, 6), 0.8F).alwaysEat().build())));
 
     //Registry
     public static void register() {}

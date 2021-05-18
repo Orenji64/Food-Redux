@@ -26,7 +26,7 @@ Foods
 - [ ] Cake (Modular)
 - [ ] Apple pie
 - [ ] Skewers (Fish, mushroom)
-- [ ] Sugar cubes
+- [-] Sugar cubes
 Crops
 - [ ] Tomatoes
 - [ ] Strawberries
