@@ -17,10 +17,3 @@ Planned additions
 ### Italian
 
 ### Japanese
-
-<ul class="ck ck-todolist">
-  <li class="ck-todolist__item">
-    <span class="ck-todolist__item-checkbox"></span>
-    <span class="ck-todolist__item-content">TestCheckBox</span>
-  </li>
-</ul>
