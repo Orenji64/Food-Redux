@@ -2,6 +2,6 @@
 #Vanilla Recipe Replacements
 A list of all vanilla recipes I plan to replace/add:
 
-- [ ] Bread           (w/ Dough)
-- [ ] Cake            (w/ Icing / cherries)
+- [x] Bread           (w/ Dough)
+- [ ] Cake            (Modular)
 - [ ] Pumpkin Pie     (w/ Pastry)
