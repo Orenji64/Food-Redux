@@ -2,6 +2,6 @@
 # Other Features
 Features that I couldn't categorize.
 
-- [ ] New food tabs / categories
+- [x] New food tabs / categories
 
 - [ ] Edible honeycomb
