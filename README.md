@@ -2,6 +2,6 @@
 
 ## Task List
 - [ ] Replace all vanilla recipes on [this list](assets/recipes.md).
-- [ ] Add all new modules on [this list](assets/modules.md).
-- [ ] Add all new food items on [this list](assets/modules.md).
-- [ ] Add the other features on [this list]().
+- [ ] Add all new modules on [this list](assets/modules.md#modules).
+- [ ] Add all new food items on [this list](assets/modules.md#additions).
+- [ ] Add the other features on [this list](other.md).

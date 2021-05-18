@@ -5,9 +5,9 @@ A list of all additions in this mod
 ## Modules
 Planned modules
 
-- [ ] [Vanilla Expansion](##3)
-- [ ] [Italian](##4)
-- [ ] [Japanese](##5)
+- [ ] [Vanilla Expansion](##vanilla-expansion)
+- [ ] [Italian](##italian)
+- [ ] [Japanese](##japanese)
 
 ## Additions
 Planned additions
@@ -17,3 +17,10 @@ Planned additions
 ### Italian
 
 ### Japanese
+
+<ul class="ck ck-todolist">
+  <li class="ck-todolist__item">
+    <span class="ck-todolist__item-checkbox"></span>
+    <span class="ck-todolist__item-content">TestCheckBox</span>
+  </li>
+</ul>
