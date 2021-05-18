@@ -1,19 +1,19 @@
 [<- Back To Home](https://github.com/OrenjiAo64/Food-Redux)
-#title Modules and Additions
+# Modules and Additions
 A list of all additions in this mod
 
-##modules Modules
+## Modules
 Planned modules
 
 - [ ] [Vanilla Expansion](##3)
 - [ ] [Italian](##4)
 - [ ] [Japanese](##5)
 
-##additions Additions
+## Additions
 Planned additions
 
-###vanilla Vanilla Expansion
+### Vanilla Expansion
 
-###italy
+### Italian
 
-###japan
+### Japanese
