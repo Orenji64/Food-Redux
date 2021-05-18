@@ -9,7 +9,7 @@ Planned modules
 - [ ] [Italian](##4)
 - [ ] [Japanese](##5)
 
-##2 Additions
+##add Additions
 Planned additions
 
 ###3 Vanilla Expansion
