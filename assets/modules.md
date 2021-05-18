@@ -5,9 +5,9 @@ A list of all additions in this mod
 ## Modules
 Planned modules
 
-- [ ] [Vanilla Expansion](##vanilla-expansion)
-- [ ] [Italian](##italian)
-- [ ] [Japanese](##japanese)
+- [ ] [Vanilla Expansion](#vanilla-expansion)
+- [ ] [Italian](#italian)
+- [ ] [Japanese](#japanese)
 
 ## Additions
 Planned additions
