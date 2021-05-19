@@ -16,18 +16,19 @@ Planned additions
 
 ### Core
 
-<br>Ingredients
+##### Ingredients
 - [x] Dough
 - [ ] Batter
 - [ ] Pastry
 - [ ] Icing
-<br>Foods
+
+##### Foods
 - [ ] Pancakes
 - [ ] Cake (Modular)
 - [ ] Apple pie
 - [ ] Skewers (Fish, mushroom)
 - [-] Sugar cubes
-<br>Crops
+##### Crops
 - [ ] Tomatoes
 - [ ] Strawberries
 - [ ] Rice
