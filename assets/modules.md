@@ -21,7 +21,6 @@ Planned additions
 - [ ] Batter
 - [ ] Pastry
 - [ ] Icing
-
 ##### Foods
 - [ ] Pancakes
 - [ ] Cake (Modular)
@@ -35,19 +34,19 @@ Planned additions
 
 #### Nether Expansion
 
-<br>Ingredients
+##### Ingredients
 - [ ] Crimson powder
 - [ ] Crimson icing
 - [ ] Warped powder
 - [ ] Warped icing
-<br>Foods
+##### Foods
 - [ ] Crimson pie
 - [ ] Warped pie
 - [ ] Nether mushroom stew
 
 #### End Expansion
 
-Foods
+##### Foods
 - [ ] Chorus pie
 - [ ] Chorus smoothie
 - [ ] Nullified Chorus pie
@@ -56,18 +55,18 @@ Foods
 
 ### Italian
 
-Foods
+##### Foods
 - [ ] Pizza
 - [ ] Pasta (Modular)
 - [ ] Ice cream
 - [ ] Tiramisu
 - [ ] Risotto
-Crops
+##### Crops
 - [ ] Olives
 
 ### Japanese
 
-Foods
+##### Foods
 - [ ] Gyoza
 - [ ] Bao bun
 - [ ] Sushi (Modular)
