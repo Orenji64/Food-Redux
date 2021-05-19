@@ -16,31 +16,30 @@ Planned additions
 
 ### Core
 
-Ingredients
+<br>Ingredients
 - [x] Dough
 - [ ] Batter
 - [ ] Pastry
 - [ ] Icing
-Foods
+<br>Foods
 - [ ] Pancakes
 - [ ] Cake (Modular)
 - [ ] Apple pie
 - [ ] Skewers (Fish, mushroom)
 - [-] Sugar cubes
-Crops
+<br>Crops
 - [ ] Tomatoes
 - [ ] Strawberries
 - [ ] Rice
-Other
 
 #### Nether Expansion
 
-Ingredients
+<br>Ingredients
 - [ ] Crimson powder
 - [ ] Crimson icing
 - [ ] Warped powder
 - [ ] Warped icing
-Foods
+<br>Foods
 - [ ] Crimson pie
 - [ ] Warped pie
 - [ ] Nether mushroom stew
