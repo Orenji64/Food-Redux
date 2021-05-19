@@ -4,4 +4,4 @@
 - [ ] Replace all vanilla recipes on [this list](assets/recipes.md).
 - [ ] Add all new modules on [this list](assets/modules.md#modules).
 - [ ] Add all new food items on [this list](assets/modules.md#additions).
-- [ ] Add the other features on [this list](other.md).
+- [ ] Add the other features on [this list](assets/other.md).

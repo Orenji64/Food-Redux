@@ -6,8 +6,8 @@ A list of all additions in this mod
 Planned modules
 
 - [ ] [Core Mod](#core)
-- [ ] [Nether Expansion](#nether-expansion)
-- [ ] [End Expansion](#end-expansion)
+- [ ] [Core: Nether Expansion](#nether-expansion)
+- [ ] [Core: End Expansion](#end-expansion)
 - [ ] [Italian](#italian)
 - [ ] [Japanese](#japanese)
 
@@ -31,8 +31,9 @@ Crops
 - [ ] Tomatoes
 - [ ] Strawberries
 - [ ] Rice
+Other
 
-### Nether Expansion
+#### Nether Expansion
 
 Ingredients
 - [ ] Crimson powder
@@ -44,7 +45,7 @@ Foods
 - [ ] Warped pie
 - [ ] Nether mushroom stew
 
-### End Expansion
+#### End Expansion
 
 Foods
 - [ ] Chorus pie
