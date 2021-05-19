@@ -6,7 +6,8 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
-import xyz.orenjiao64.foodredux.init.ModItems;
+import xyz.orenjiao64.foodredux.init.BaseItems;
+import xyz.orenjiao64.foodredux.init.FoodItems;
 
 public class Registry
 {
@@ -19,6 +20,7 @@ public class Registry
         ITEMS.register(modEventBus);
         BLOCKS.register(modEventBus);
 
-        ModItems.register();
+        BaseItems.register();
+        FoodItems.register();
     }
 }

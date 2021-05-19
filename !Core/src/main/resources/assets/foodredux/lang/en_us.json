@@ -5,8 +5,15 @@
   "item.foodredux.dough_baked": "Doughball",
   "item.foodredux.flour": "Flour",
   "item.foodredux.bread_raw": "Dough (Bread)",
+  "item.foodredux.chorus_pie": "Chorus Pie",
+  "item.foodredux.chorus_pie_null": "Nullified Chorus Pie",
+  "item.foodredux.nether_mushroom_stew": "Nether fungus stew",
+  "item.foodredux.crimson_pie": "Crimson Pie",
+  "item.foodredux.warped_pie": "Warped Pie",
 
   "itemGroup.food_ingredients": "Food - Ingredients",
   "itemGroup.food_bakery": "Food - Bakery",
+  "itemGroup.food_fruitveg": "Food - Fruit & Veg",
+  "itemGroup.food_soup": "Food - Soup",
   "itemGroup.food": "Food - Misc"
 }
