@@ -1,94 +1,94 @@
-[17May2021 20:49:38.171] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--mod, foodredux, --all, --output, C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\src\generated\resources, --existing, C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\src\main\resources, --gameDir, ., --launchTarget, fmluserdevdata, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.1.0]
-[17May2021 20:49:38.182] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_291 by Oracle Corporation
-[17May2021 20:49:38.195] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [minecraft,fmldevdata,fmldevclient,fmldevserver,fmluserdevserver,testharness,fmluserdevdata,fmlclient,fmluserdevclient,fmlserver]
-[17May2021 20:49:38.215] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : [srgtomcp]
-[17May2021 20:49:38.284] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [mixin,eventbus,object_holder_definalize,runtime_enum_extender,accesstransformer,capability_inject_definalize,runtimedistcleaner]
-[17May2021 20:49:38.304] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
-[17May2021 20:49:38.312] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: []
-[17May2021 20:49:38.363] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [mixin,fml]
-[17May2021 20:49:38.363] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
-[17May2021 20:49:38.364] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service mixin
-[17May2021 20:49:38.364] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service mixin
-[17May2021 20:49:38.365] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
-[17May2021 20:49:38.366] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/]: Injecting tracing printstreams for STDOUT/STDERR.
-[17May2021 20:49:38.370] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 36.1
-[17May2021 20:49:38.371] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 36.1 loading
-[17May2021 20:49:38.371] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 8.0.9+86+master.3cf110c
-[17May2021 20:49:38.371] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Initializing modjar URL handler
-[17May2021 20:49:38.372] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 3.0.1+61+master.47bca0e
-[17May2021 20:49:38.373] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 4.0.0+65+master.6080a3f
-[17May2021 20:49:38.374] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
-[17May2021 20:49:38.379] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 4.0.6+14+master.c21a551
-[17May2021 20:49:38.380] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 3.2.0+13+master.8ddb2cc
-[17May2021 20:49:38.380] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 3
-[17May2021 20:49:40.435] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[17May2021 20:49:40.437] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
-[17May2021 20:49:40.441] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
-[17May2021 20:49:40.450] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
-[17May2021 20:49:40.450] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service mixin
-[17May2021 20:49:40.456] [main/DEBUG] [mixin/]: Mixin bootstrap service org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapperBootstrap is not available: LaunchWrapper is not available
-[17May2021 20:49:40.466] [main/DEBUG] [mixin/]: MixinService [ModLauncher] was successfully booted in sun.misc.Launcher$AppClassLoader@18b4aac2
-[17May2021 20:49:40.502] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/orenj/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.2/1cf212283d26f706fd3074318870bebd14d2a9ed/mixin-0.8.2.jar Service=ModLauncher Env=UNKNOWN
-[17May2021 20:49:40.504] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
-[17May2021 20:49:40.505] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ModLauncher Root Container(4f56a0a2)
-[17May2021 20:49:40.506] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(4f56a0a2)
-[17May2021 20:49:40.507] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(4f56a0a2)
-[17May2021 20:49:40.507] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(4f56a0a2)
-[17May2021 20:49:40.508] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ModLauncher Root Container(4f56a0a2)
-[17May2021 20:49:40.512] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service mixin
-[17May2021 20:49:40.512] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
-[17May2021 20:49:40.512] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
-[17May2021 20:49:40.513] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing GAMEDIR directory : C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run
-[17May2021 20:49:40.514] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run
-[17May2021 20:49:40.514] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing MODSDIR directory : C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\mods
-[17May2021 20:49:40.515] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\mods
-[17May2021 20:49:40.515] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing CONFIGDIR directory : C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\config
-[17May2021 20:49:40.515] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\config
-[17May2021 20:49:40.515] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\config\fml.toml
-[17May2021 20:49:40.516] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
-[17May2021 20:49:40.579] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing default config directory directory : C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\defaultconfigs
-[17May2021 20:49:40.580] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing ModFile
-[17May2021 20:49:40.584] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing launch handler
-[17May2021 20:49:40.584] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Using fmluserdevdata as launch service
-[17May2021 20:49:40.596] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Received command line version data  : MC Version: '1.16.5' MCP Version: '20210115.111550' Forge Version: '36.1.0' Forge group: 'net.minecraftforge'
-[17May2021 20:49:40.598] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Found JAR forge at path C:\Users\orenj\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.1.0_mapped_official_1.16.5\forge-1.16.5-36.1.0_mapped_official_1.16.5-recomp.jar
-[17May2021 20:49:40.599] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Found JAR mcdata at path C:\Users\orenj\.gradle\caches\forge_gradle\minecraft_repo\versions\1.16.5\client-extra.jar
-[17May2021 20:49:40.599] [main/DEBUG] [net.minecraftforge.userdev.FMLUserdevLaunchProvider/CORE]: Injecting maven path C:\Users\orenj\.gradle\caches\forge_gradle\minecraft_user_repo
-[17May2021 20:49:40.599] [main/DEBUG] [net.minecraftforge.fml.loading.FMLCommonLaunchHandler/CORE]: Got mod coordinates foodredux%%C:/Users/orenj/Documents/Modding/Mods/Food-Redux/!Core\build\resources\main;foodredux%%C:/Users/orenj/Documents/Modding/Mods/Food-Redux/!Core\build\classes\java\main from env
-[17May2021 20:49:40.601] [main/DEBUG] [net.minecraftforge.fml.loading.FMLCommonLaunchHandler/CORE]: Found supplied mod coordinates [{foodredux=[C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\build\resources\main, C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\build\classes\java\main]}]
-[17May2021 20:49:40.607] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 2 language providers
-[17May2021 20:49:40.608] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider javafml, version 36.1
-[17May2021 20:49:40.617] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider minecraft, version 1
-[17May2021 20:49:40.617] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Skipping adding forge jar - javafml is already present
-[17May2021 20:49:40.619] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service fml
-[17May2021 20:49:40.619] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Current naming domain is 'mcp'
-[17May2021 20:49:40.620] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Identified name mapping providers {srg=srgtomcp:1234}
-[17May2021 20:49:40.620] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services begin scanning
-[17May2021 20:49:40.621] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service mixin
-[17May2021 20:49:40.621] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service mixin
-[17May2021 20:49:40.621] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service fml
-[17May2021 20:49:40.621] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Initiating mod scan
-[17May2021 20:49:40.678] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalArgumentException: Missing scheme
-[17May2021 20:49:40.678] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.nio.file.Paths.get(Paths.java:134)
-[17May2021 20:49:40.679] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.LibraryFinder.findJarPathFor(LibraryFinder.java:58)
-[17May2021 20:49:40.679] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.ClasspathLocator.locateMods(ClasspathLocator.java:81)
-[17May2021 20:49:40.679] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.ClasspathLocator.initArguments(ClasspathLocator.java:69)
-[17May2021 20:49:40.679] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.lambda$new$7(ModDiscoverer.java:92)
-[17May2021 20:49:40.680] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
-[17May2021 20:49:40.680] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.<init>(ModDiscoverer.java:92)
-[17May2021 20:49:40.681] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLLoader.beginModScan(FMLLoader.java:215)
-[17May2021 20:49:40.681] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.runScan(FMLServiceProvider.java:107)
-[17May2021 20:49:40.681] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.runScan(TransformationServiceDecorator.java:114)
-[17May2021 20:49:40.681] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$runScanningTransformationServices$8(TransformationServicesHandler.java:115)
-[17May2021 20:49:40.682] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:267)
-[17May2021 20:49:40.682] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1628)
-[17May2021 20:49:40.683] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
-[17May2021 20:49:40.683] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
-[17May2021 20:49:40.683] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
-[17May2021 20:49:40.683] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-[17May2021 20:49:40.684] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:499)
-[17May2021 20:49:40.684] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.runScanningTransformationServices(TransformationServicesHandler.java:116)
-[17May2021 20:49:40.685] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:63)
-[17May2021 20:49:40.685] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
-[17May2021 20:49:40.686] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
-[17May2021 20:49:40.686] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:105)
+[19May2021 15:29:27.813] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.1.0, --version, MOD_DEV, --assetIndex, 1.16, --assetsDir, C:\Users\orenj\.gradle\caches\forge_gradle\assets, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[19May2021 15:29:27.822] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_291 by Oracle Corporation
+[19May2021 15:29:27.842] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [minecraft,fmldevdata,fmldevclient,fmldevserver,fmluserdevserver,testharness,fmluserdevdata,fmlclient,fmluserdevclient,fmlserver]
+[19May2021 15:29:27.862] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : [srgtomcp]
+[19May2021 15:29:27.938] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [mixin,eventbus,object_holder_definalize,runtime_enum_extender,accesstransformer,capability_inject_definalize,runtimedistcleaner]
+[19May2021 15:29:27.968] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
+[19May2021 15:29:27.982] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: []
+[19May2021 15:29:28.045] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [mixin,fml]
+[19May2021 15:29:28.045] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
+[19May2021 15:29:28.047] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service mixin
+[19May2021 15:29:28.047] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service mixin
+[19May2021 15:29:28.048] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
+[19May2021 15:29:28.048] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/]: Injecting tracing printstreams for STDOUT/STDERR.
+[19May2021 15:29:28.054] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 36.1
+[19May2021 15:29:28.054] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 36.1 loading
+[19May2021 15:29:28.055] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 8.0.9+86+master.3cf110c
+[19May2021 15:29:28.056] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Initializing modjar URL handler
+[19May2021 15:29:28.057] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 3.0.1+61+master.47bca0e
+[19May2021 15:29:28.058] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 4.0.0+65+master.6080a3f
+[19May2021 15:29:28.058] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
+[19May2021 15:29:28.063] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 4.0.6+14+master.c21a551
+[19May2021 15:29:28.064] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 3.2.0+13+master.8ddb2cc
+[19May2021 15:29:28.064] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 3
+[19May2021 15:29:30.018] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[19May2021 15:29:30.019] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
+[19May2021 15:29:30.022] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
+[19May2021 15:29:30.031] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
+[19May2021 15:29:30.032] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service mixin
+[19May2021 15:29:30.037] [main/DEBUG] [mixin/]: Mixin bootstrap service org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapperBootstrap is not available: LaunchWrapper is not available
+[19May2021 15:29:30.044] [main/DEBUG] [mixin/]: MixinService [ModLauncher] was successfully booted in sun.misc.Launcher$AppClassLoader@4e25154f
+[19May2021 15:29:30.078] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/orenj/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.2/1cf212283d26f706fd3074318870bebd14d2a9ed/mixin-0.8.2.jar Service=ModLauncher Env=CLIENT
+[19May2021 15:29:30.081] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
+[19May2021 15:29:30.081] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ModLauncher Root Container(4f56a0a2)
+[19May2021 15:29:30.082] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(4f56a0a2)
+[19May2021 15:29:30.083] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(4f56a0a2)
+[19May2021 15:29:30.083] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(4f56a0a2)
+[19May2021 15:29:30.084] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ModLauncher Root Container(4f56a0a2)
+[19May2021 15:29:30.087] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service mixin
+[19May2021 15:29:30.088] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
+[19May2021 15:29:30.088] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
+[19May2021 15:29:30.090] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing GAMEDIR directory : C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run
+[19May2021 15:29:30.091] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run
+[19May2021 15:29:30.092] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing MODSDIR directory : C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\mods
+[19May2021 15:29:30.092] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\mods
+[19May2021 15:29:30.093] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing CONFIGDIR directory : C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\config
+[19May2021 15:29:30.093] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\config
+[19May2021 15:29:30.093] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\config\fml.toml
+[19May2021 15:29:30.093] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
+[19May2021 15:29:30.156] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing default config directory directory : C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\run\defaultconfigs
+[19May2021 15:29:30.156] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing ModFile
+[19May2021 15:29:30.162] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing launch handler
+[19May2021 15:29:30.162] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Using fmluserdevclient as launch service
+[19May2021 15:29:30.824] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Received command line version data  : MC Version: '1.16.5' MCP Version: '20210115.111550' Forge Version: '36.1.0' Forge group: 'net.minecraftforge'
+[19May2021 15:29:30.826] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Found JAR forge at path C:\Users\orenj\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.1.0_mapped_official_1.16.5\forge-1.16.5-36.1.0_mapped_official_1.16.5-recomp.jar
+[19May2021 15:29:30.827] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Found JAR mcdata at path C:\Users\orenj\.gradle\caches\forge_gradle\minecraft_repo\versions\1.16.5\client-extra.jar
+[19May2021 15:29:30.828] [main/DEBUG] [net.minecraftforge.userdev.FMLUserdevLaunchProvider/CORE]: Injecting maven path C:\Users\orenj\.gradle\caches\forge_gradle\minecraft_user_repo
+[19May2021 15:29:30.828] [main/DEBUG] [net.minecraftforge.fml.loading.FMLCommonLaunchHandler/CORE]: Got mod coordinates foodredux%%C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\build\resources\main;foodredux%%C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\build\classes\java\main from env
+[19May2021 15:29:30.830] [main/DEBUG] [net.minecraftforge.fml.loading.FMLCommonLaunchHandler/CORE]: Found supplied mod coordinates [{foodredux=[C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\build\resources\main, C:\Users\orenj\Documents\Modding\Mods\Food-Redux\!Core\build\classes\java\main]}]
+[19May2021 15:29:30.836] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 2 language providers
+[19May2021 15:29:30.837] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider javafml, version 36.1
+[19May2021 15:29:30.914] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider minecraft, version 1
+[19May2021 15:29:30.915] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Skipping adding forge jar - javafml is already present
+[19May2021 15:29:30.917] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service fml
+[19May2021 15:29:30.917] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Current naming domain is 'mcp'
+[19May2021 15:29:30.918] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Identified name mapping providers {srg=srgtomcp:1234}
+[19May2021 15:29:30.918] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services begin scanning
+[19May2021 15:29:30.919] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service mixin
+[19May2021 15:29:30.920] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service mixin
+[19May2021 15:29:30.920] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service fml
+[19May2021 15:29:30.920] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Initiating mod scan
+[19May2021 15:29:30.987] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalArgumentException: Missing scheme
+[19May2021 15:29:30.987] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.nio.file.Paths.get(Paths.java:134)
+[19May2021 15:29:30.988] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.LibraryFinder.findJarPathFor(LibraryFinder.java:58)
+[19May2021 15:29:30.988] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.ClasspathLocator.locateMods(ClasspathLocator.java:81)
+[19May2021 15:29:30.988] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.ClasspathLocator.initArguments(ClasspathLocator.java:69)
+[19May2021 15:29:30.989] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.lambda$new$7(ModDiscoverer.java:92)
+[19May2021 15:29:30.989] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.ArrayList.forEach(ArrayList.java:1259)
+[19May2021 15:29:30.989] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.<init>(ModDiscoverer.java:92)
+[19May2021 15:29:30.990] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLLoader.beginModScan(FMLLoader.java:215)
+[19May2021 15:29:31.046] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.loading.FMLServiceProvider.runScan(FMLServiceProvider.java:107)
+[19May2021 15:29:31.051] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServiceDecorator.runScan(TransformationServiceDecorator.java:114)
+[19May2021 15:29:31.051] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$runScanningTransformationServices$8(TransformationServicesHandler.java:115)
+[19May2021 15:29:31.051] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:267)
+[19May2021 15:29:31.051] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1628)
+[19May2021 15:29:31.052] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+[19May2021 15:29:31.052] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+[19May2021 15:29:31.052] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
+[19May2021 15:29:31.052] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[19May2021 15:29:31.053] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:499)
+[19May2021 15:29:31.053] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.runScanningTransformationServices(TransformationServicesHandler.java:116)
+[19May2021 15:29:31.053] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:63)
+[19May2021 15:29:31.054] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
+[19May2021 15:29:31.054] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[19May2021 15:29:31.054] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:105)
