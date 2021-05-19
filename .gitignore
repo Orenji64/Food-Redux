@@ -2,3 +2,5 @@
 build/
 Builds/
 BuildGrab.bat
+.gradlew
+.gradle/
