@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodredux:chorus_fruit_null"
+    },
+    {
+      "item": "foodredux:pie_base"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodredux:chorus_pie_null",
+    "count": 1
+  }
+}

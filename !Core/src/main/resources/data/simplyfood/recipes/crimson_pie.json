@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodredux:crimson_powder"
+    },
+    {
+      "item": "foodredux:pie_base"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodredux:crimson_pie",
+    "count": 1
+  }
+}

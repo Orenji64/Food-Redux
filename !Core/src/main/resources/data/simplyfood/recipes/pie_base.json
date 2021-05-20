@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "foodredux:dough_raw"
+    }
+  },
+  "result": {
+    "item": "foodredux:pie_base",
+    "count": 1
+  }
+}

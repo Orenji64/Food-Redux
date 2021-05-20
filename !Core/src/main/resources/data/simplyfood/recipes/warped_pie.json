@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodredux:warped_powder"
+    },
+    {
+      "item": "foodredux:pie_base"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodredux:warped_pie",
+    "count": 1
+  }
+}

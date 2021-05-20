@@ -39,6 +39,9 @@ public class FoodItems
     public static final RegistryObject<Item> CHORUS_PIE_NULL = Registry.ITEMS.register("chorus_pie_null",
             () -> new Item(new Item.Properties().tab(TabOverride.TAB_BAKERY).food(
                     new Food.Builder().nutrition(8).saturationMod(0.3F).build())));
+    public static final RegistryObject<Item> CHORUS_FRUIT_NULL = Registry.ITEMS.register("chorus_fruit_null",
+            () -> new Item(new Item.Properties().tab(TabOverride.TAB_FRUITVEG).food(
+                    new Food.Builder().nutrition(2).saturationMod(0.1F).build())));
 
 
     //Registry

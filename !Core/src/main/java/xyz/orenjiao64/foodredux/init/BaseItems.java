@@ -21,6 +21,8 @@ public class BaseItems
             () -> new Item(new Item.Properties().tab(TabOverride.TAB_INGREDIENTS)));
     public static final RegistryObject<Item> BREAD_RAW = Registry.ITEMS.register("bread_raw",
             () -> new Item(new Item.Properties().tab(TabOverride.TAB_INGREDIENTS)));
+    public static final RegistryObject<Item> PIE_BASE = Registry.ITEMS.register("pie_base",
+            () -> new Item(new Item.Properties().tab(TabOverride.TAB_INGREDIENTS)));
     //Core: Nether Expansion
     public static final RegistryObject<Item> CRIMSON_POWDER = Registry.ITEMS.register("crimson_powder",
             () -> new Item(new Item.Properties().tab(TabOverride.TAB_INGREDIENTS)));
