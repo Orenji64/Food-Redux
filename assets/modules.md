@@ -26,7 +26,7 @@ Planned additions
 - [ ] Cake (Modular)
 - [ ] Apple pie
 - [ ] Skewers (Fish, mushroom)
-- [-] Sugar cubes
+- [x] Sugar cubes
 ##### Crops
 - [ ] Tomatoes
 - [ ] Strawberries
@@ -35,21 +35,22 @@ Planned additions
 #### Nether Expansion
 
 ##### Ingredients
-- [ ] Crimson powder
+- [x] Crimson powder
 - [ ] Crimson icing
-- [ ] Warped powder
+- [x] Warped powder
 - [ ] Warped icing
 ##### Foods
-- [ ] Crimson pie
-- [ ] Warped pie
-- [ ] Nether mushroom stew
+- [x] Crimson pie
+- [x] Warped pie
+- [x] Nether mushroom stew
 
 #### End Expansion
 
 ##### Foods
-- [ ] Chorus pie
+- [x] Chorus pie
 - [ ] Chorus smoothie
-- [ ] Nullified Chorus pie
+- [x] Nullified chorus fruit
+- [x] Nullified Chorus pie
 - [ ] Nullified Chorus smoothie
 - [ ] Chorus icing
 
