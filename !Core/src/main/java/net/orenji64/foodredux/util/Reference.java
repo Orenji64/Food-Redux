@@ -1,4 +1,4 @@
-package xyz.orenjiao64.foodredux.util;
+package net.orenji64.foodredux.util;
 
 public class Reference
 {

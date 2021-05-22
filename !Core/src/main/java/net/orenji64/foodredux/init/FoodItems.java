@@ -1,14 +1,13 @@
-package xyz.orenjiao64.foodredux.init;
+package net.orenji64.foodredux.init;
 
 import net.minecraft.item.ChorusFruitItem;
 import net.minecraft.item.Food;
 import net.minecraft.item.Item;
 import net.minecraft.item.SoupItem;
-import net.minecraft.potion.Effect;
 import net.minecraft.potion.EffectInstance;
 import net.minecraft.potion.Effects;
 import net.minecraftforge.fml.RegistryObject;
-import xyz.orenjiao64.foodredux.util.Registry;
+import net.orenji64.foodredux.util.Registry;
 
 public class FoodItems
 {

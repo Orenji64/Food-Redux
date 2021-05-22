@@ -1,4 +1,4 @@
-package xyz.orenjiao64.foodredux.util;
+package net.orenji64.foodredux.util;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
@@ -6,8 +6,8 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
-import xyz.orenjiao64.foodredux.init.BaseItems;
-import xyz.orenjiao64.foodredux.init.FoodItems;
+import net.orenji64.foodredux.init.BaseItems;
+import net.orenji64.foodredux.init.FoodItems;
 
 public class Registry
 {

@@ -1,4 +1,4 @@
-package xyz.orenjiao64.foodredux.init;
+package net.orenji64.foodredux.init;
 
 import net.minecraft.item.*;
 

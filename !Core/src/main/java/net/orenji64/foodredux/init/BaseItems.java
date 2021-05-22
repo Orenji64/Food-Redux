@@ -1,16 +1,8 @@
-package xyz.orenjiao64.foodredux.init;
+package net.orenji64.foodredux.init;
 
-import net.minecraft.item.Food;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
-import net.minecraft.potion.Effect;
-import net.minecraft.potion.EffectInstance;
-import net.minecraft.potion.Effects;
 import net.minecraftforge.fml.RegistryObject;
-import xyz.orenjiao64.foodredux.util.Registry;
-
-import java.lang.reflect.Field;
-import java.text.Format;
+import net.orenji64.foodredux.util.Registry;
 
 public class BaseItems
 {

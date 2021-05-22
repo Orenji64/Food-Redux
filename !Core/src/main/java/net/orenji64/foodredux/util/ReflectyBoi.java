@@ -1,4 +1,4 @@
-package xyz.orenjiao64.foodredux.util;
+package net.orenji64.foodredux.util;
 
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;

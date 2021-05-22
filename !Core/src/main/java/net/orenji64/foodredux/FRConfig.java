@@ -1,5 +1,5 @@
 /*
-package xyz.orenjiao64.foodredux;
+package net.orenji64.foodredux;
 
 import net.minecraftforge.common.ForgeConfigSpec;
 import net.minecraftforge.common.ForgeConfigSpec.BooleanValue;
